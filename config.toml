@@ -1,0 +1,4 @@
+baseURL = "https://lya79.github.io/blog/"
+languageCode = "en-us"
+title = "Diary"
+theme = "soho"
